@@ -1,0 +1,28 @@
+body{
+	color:white;
+	background-color: black;
+}
+#name{
+	font-size: 50px;
+	text-align: center;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20%;
+}
+
+#quote{
+	text-align: center;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 5%;
+}
+
+#links{
+	font-size: 20px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 5%;
+}
