@@ -42,5 +42,5 @@ permalink:    pretty
 paginate:     3
 sass:
   compressed: true
-paginate_path: "/blog/page:num/"
+paginate_path: "page:num/"
 gems: [jekyll-paginate]
